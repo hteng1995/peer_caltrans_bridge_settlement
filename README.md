@@ -12,3 +12,5 @@ Folder: Camera includes code to be saved on the Raspberry Pi in the Camera Modul
 Folder: Laser includes code to be saved on the Raspberry Pi in the Laser Module, Phase I
 
 Folder: Arduino_timer_polls includes code to be flashed to the Arduino in the Laser & Camera Module, Phase I
+
+For Phase II detailed installation information, refer to RPI_C_FINAL > Main > README.txt 
