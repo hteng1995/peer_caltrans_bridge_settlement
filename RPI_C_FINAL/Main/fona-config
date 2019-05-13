@@ -1,0 +1,21 @@
+#Defines the serial port to be used
+/dev/serial0 
+#Desired baud rate
+115200
+#Connect by using chat script in path
+connect "/usr/sbin/chat -v -f /etc/ppp/peers/fona-chat"
+#Do not ask the remote to authenticate
+noauth
+#No hardware flow control on the serial link with FONA
+nocrtscts
+#Use this connection as the default route to the internet
+defaultroute
+#Assumes that the IP address is dynamically allocated by the ISP
+noipdefault
+#Try to get the name server addresses from the IPS
+usepeerdns
+#No modem control lines with FONA
+local
+#debug mode on
+debug
+updetach
