@@ -10,3 +10,5 @@ Folder: ARD_L_FINAL includes code to be flashed to the Arduino in the Laser Modu
 Folder: Camera includes code to be saved on the Raspberry Pi in the Camera Module, Phase I
 
 Folder: Laser includes code to be saved on the Raspberry Pi in the Laser Module, Phase I
+
+Folder: Arduino_timer_polls includes code to be flashed to the Arduino in the Laser & Camera Module, Phase I
