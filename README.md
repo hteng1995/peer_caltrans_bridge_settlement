@@ -1,5 +1,5 @@
 # peer_caltrans_bridge_settlement
-PEER Lifelines Task Order 4
+PEER Lifelines Task Order 4, Henry Teng, Albert Qu
 
 Folder: RPI_C_FINAL includes code to be saved on the Raspberry Pi in the Camera Module, Phase II
 
